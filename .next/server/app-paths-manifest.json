@@ -1,0 +1,11 @@
+{
+  "/not-found": "app/not-found.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/(site)/(routes)/page": "app/(site)/(routes)/page.js",
+  "/(auth)/(routes)/authentication/page": "app/(auth)/(routes)/authentication/page.js",
+  "/admins/page": "app/admins/page.js",
+  "/users/disciplines/page": "app/users/disciplines/page.js",
+  "/admins/departments/page": "app/admins/departments/page.js",
+  "/admins/projects/page": "app/admins/projects/page.js",
+  "/admins/employees/degrees/page": "app/admins/employees/degrees/page.js"
+}
